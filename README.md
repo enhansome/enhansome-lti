@@ -49,8 +49,8 @@ Demo codes or sample implementations are listed below each library.
 
 ### .NET Core
 
-* [LTI 1.3 and LTI Advantage `LtiAdvantage`](https://github.com/LtiLibrary/LtiAdvantage) ⭐ 45 | 🐛 9 | 🌐 C# | 📅 2026-08-10
-* [LTI 1.3 `Tpcly.Lti`](https://github.com/LtiLibrary/LtiAdvantage) ⭐ 45 | 🐛 9 | 🌐 C# | 📅 2026-08-10 by  Jelle Maas
+* [LTI 1.3 and LTI Advantage `LtiAdvantage`](https://github.com/LtiLibrary/LtiAdvantage) ⭐ 45 | 🐛 12 | 🌐 C# | 📅 2026-08-17
+* [LTI 1.3 `Tpcly.Lti`](https://github.com/LtiLibrary/LtiAdvantage) ⭐ 45 | 🐛 12 | 🌐 C# | 📅 2026-08-17 by  Jelle Maas
 
 ### JAVA
 
@@ -82,7 +82,7 @@ Demo codes or sample implementations are listed below each library.
 
 * [LTI 1.3 Advantage Library](https://github.com/1EdTech/lti-1-3-php-library) ⭐ 125 | 🐛 26 | 🌐 PHP | 📅 2024-08-20 by 1EdTech Consortium
   * [LTI 1.3 Advantage Demo Tool](https://github.com/1EdTech/lti-1-3-php-example-tool) ⭐ 56 | 🐛 12 | 🌐 PHP | 📅 2024-07-26 by 1EdTech Consortium
-* [LTI 1.1 and LTI 1.3 Advantage](https://github.com/celtic-project/LTI-PHP) ⭐ 60 | 🐛 1 | 🌐 PHP | 📅 2026-07-26 by ceLTIc project
+* [LTI 1.1 and LTI 1.3 Advantage](https://github.com/celtic-project/LTI-PHP) ⭐ 60 | 🐛 0 | 🌐 PHP | 📅 2026-08-16 by ceLTIc project
   * [Integrates the Celtic LTI library with a Laravel app](https://github.com/longhornopen/laravel-celtic-lti) ⭐ 16 | 🐛 0 | 🌐 PHP | 📅 2025-10-22 by Longhorn Open Ed Tech
   * [Rating PHP](https://github.com/celtic-project/Rating-PHP) ⭐ 14 | 🐛 1 | 🌐 PHP | 📅 2025-08-11 by ceLTIc project
   * [A simple LTI tool for integrating Qualtrics surveys into a course](https://github.com/longhornopen/qualtrics-lti) ⭐ 7 | 🐛 4 | 🌐 PHP | 📅 2026-08-12 by Longhorn Open Ed Tech
@@ -107,4 +107,4 @@ See `LICENSE` file for more details.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._

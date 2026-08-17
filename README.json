@@ -57,7 +57,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-10T01:24:16Z",
+            "last_commit": "2026-08-17T01:24:43Z",
             "owner": "LtiLibrary",
             "repo": "LtiAdvantage",
             "stars": 45
@@ -71,7 +71,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-10T01:24:16Z",
+            "last_commit": "2026-08-17T01:24:43Z",
             "owner": "LtiLibrary",
             "repo": "LtiAdvantage",
             "stars": 45
@@ -375,7 +375,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-07-26T15:20:03Z",
+            "last_commit": "2026-08-16T15:52:57Z",
             "owner": "celtic-project",
             "repo": "LTI-PHP",
             "stars": 60
@@ -429,7 +429,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T03:06:05.854Z",
+    "last_updated": "2026-08-17T03:05:55.610Z",
     "original_repository": "scollovati/awesome-lti",
     "original_repository_sha": "01aaf4c425a5a1d3c3f581b6f2e65a0ca50a7185",
     "enhanced_repository": "enhansome/enhansome-lti",
