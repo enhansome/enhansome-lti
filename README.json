@@ -33,7 +33,7 @@
                 "last_commit": "2025-11-10T19:57:18Z",
                 "owner": "1EdTech",
                 "repo": "ltibootcamp",
-                "stars": 127
+                "stars": 128
               }
             }
           ]
@@ -375,7 +375,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-16T15:52:57Z",
+            "last_commit": "2026-08-17T16:27:28Z",
             "owner": "celtic-project",
             "repo": "LTI-PHP",
             "stars": 60
@@ -429,7 +429,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T03:05:55.610Z",
+    "last_updated": "2026-08-18T03:01:33.539Z",
     "original_repository": "scollovati/awesome-lti",
     "original_repository_sha": "01aaf4c425a5a1d3c3f581b6f2e65a0ca50a7185",
     "enhanced_repository": "enhansome/enhansome-lti",

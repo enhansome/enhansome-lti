@@ -20,7 +20,7 @@ List of awesome resources for learning and developing tools according to the [Le
 * [LTI 1.1: from B to C](https://www.youtube.com/watch?v=I0zhjzCxovw\&list=PLb5mG7w3UZkM_kx0mbojgDX4qFkGQsXO_\&index=1) by Claude Vervoot  ![](https://img.shields.io/badge/playlist-red?logo=YouTube)
 * [An Illustrated Guide to OAuth and OpenID Connect](https://www.youtube.com/watch?v=t18YB3xDfXI) by OktaDev ![](https://img.shields.io/badge/playlist-red?logo=YouTube)
 * [LTI 1.3 and LTI Advantage Bootcamp](https://www.youtube.com/watch?v=f_6pWiQpg5s\&list=PLb5mG7w3UZkPKHODmz5YCkIqnWQEsjMkd) by Claude Vervoot ![](https://img.shields.io/badge/playlist-red?logo=YouTube)
-  * [Companion text and code](https://github.com/1EdTech/ltibootcamp) ⭐ 127 | 🐛 0 | 📅 2025-11-10 for the bootcamp video by Claude Vervoot ![](https://img.shields.io/badge/code-000?logo=GitHub)
+  * [Companion text and code](https://github.com/1EdTech/ltibootcamp) ⭐ 128 | 🐛 0 | 📅 2025-11-10 for the bootcamp video by Claude Vervoot ![](https://img.shields.io/badge/code-000?logo=GitHub)
 * Build a LTI 1.3 and LTI Advantage Tool with Martin Lenord ![](https://img.shields.io/badge/video-red?logo=YouTube) :
   * [Part 1 - LTI 1.3 Launch](https://www.youtube.com/watch?v=fI-rhSSDU8M)
   * [Part 2 - Deep Linking Capabilities](https://www.youtube.com/watch?v=EQUEmJFWNbI)
@@ -82,7 +82,7 @@ Demo codes or sample implementations are listed below each library.
 
 * [LTI 1.3 Advantage Library](https://github.com/1EdTech/lti-1-3-php-library) ⭐ 125 | 🐛 26 | 🌐 PHP | 📅 2024-08-20 by 1EdTech Consortium
   * [LTI 1.3 Advantage Demo Tool](https://github.com/1EdTech/lti-1-3-php-example-tool) ⭐ 56 | 🐛 12 | 🌐 PHP | 📅 2024-07-26 by 1EdTech Consortium
-* [LTI 1.1 and LTI 1.3 Advantage](https://github.com/celtic-project/LTI-PHP) ⭐ 60 | 🐛 0 | 🌐 PHP | 📅 2026-08-16 by ceLTIc project
+* [LTI 1.1 and LTI 1.3 Advantage](https://github.com/celtic-project/LTI-PHP) ⭐ 60 | 🐛 0 | 🌐 PHP | 📅 2026-08-17 by ceLTIc project
   * [Integrates the Celtic LTI library with a Laravel app](https://github.com/longhornopen/laravel-celtic-lti) ⭐ 16 | 🐛 0 | 🌐 PHP | 📅 2025-10-22 by Longhorn Open Ed Tech
   * [Rating PHP](https://github.com/celtic-project/Rating-PHP) ⭐ 14 | 🐛 1 | 🌐 PHP | 📅 2025-08-11 by ceLTIc project
   * [A simple LTI tool for integrating Qualtrics surveys into a course](https://github.com/longhornopen/qualtrics-lti) ⭐ 7 | 🐛 4 | 🌐 PHP | 📅 2026-08-12 by Longhorn Open Ed Tech
@@ -107,4 +107,4 @@ See `LICENSE` file for more details.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
