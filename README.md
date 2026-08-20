@@ -6,7 +6,7 @@ List of awesome resources for learning and developing tools according to the [Le
 
 ![](https://img.shields.io/github/license/scollovati/awesome-lti?style=for-the-badge)
 [![](https://img.shields.io/static/v1?label=Gitlab\&message=awesome-lti\&style=for-the-badge\&logo=gitlab)](https://gitlab.com/scollovati/awesome-lti)
-[![](https://img.shields.io/static/v1?label=Github\&message=awesome-lti\&style=for-the-badge\&logo=github)](https://github.com/scollovati/awesome-lti) ⭐ 80 | 🐛 0 | 📅 2025-12-12
+[![](https://img.shields.io/static/v1?label=Github\&message=awesome-lti\&style=for-the-badge\&logo=github)](https://github.com/scollovati/awesome-lti) ⭐ 79 | 🐛 0 | 📅 2025-12-12
 
 ## Table of Contents
 
@@ -88,7 +88,7 @@ Demo codes or sample implementations are listed below each library.
   * [A simple LTI tool for integrating Qualtrics surveys into a course](https://github.com/longhornopen/qualtrics-lti) ⭐ 7 | 🐛 4 | 🌐 PHP | 📅 2026-08-12 by Longhorn Open Ed Tech
 * [LTI 1.3 Tool Library](https://github.com/packbackbooks/lti-1-3-php-library) ⭐ 53 | 🐛 11 | 🌐 PHP | 📅 2026-07-21 by Packback Book (this is a fork of the 1EdTech Consortium library)
 * [LTI 1.3 Core](https://github.com/oat-sa/lib-lti1p3-core) ⭐ 37 | 🐛 17 | 🌐 PHP | 📅 2026-07-16 by  Open Assessment Technologies (TAO)
-  * [LTI 1.3 Demo Application](https://github.com/oat-sa/demo-lti1p3) ⭐ 20 | 🐛 13 | 🌐 Twig | 📅 2026-07-30 by  Open Assessment Technologies (TAO)
+  * [LTI 1.3 Demo Application](https://github.com/oat-sa/demo-lti1p3) ⭐ 20 | 🐛 14 | 🌐 Twig | 📅 2026-08-19 by  Open Assessment Technologies (TAO)
 
 ### Ruby
 
@@ -107,4 +107,4 @@ See `LICENSE` file for more details.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
