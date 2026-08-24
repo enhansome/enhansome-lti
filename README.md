@@ -61,9 +61,9 @@ Demo codes or sample implementations are listed below each library.
 
 ### Javascript, Typescript, NodeJS
 
+* [LTI 1.3 Tool for testing Launches, Caliper, and Outcomes](https://github.com/blackboard/BBDN-LTI-Tool-Provider-Node) ⭐ 77 | 🐛 15 | 🌐 JavaScript | 📅 2026-08-06 by Blackboard Inc.
 * [LTI 1.3 and LTI Advantage `ltijs`](https://cvmcosta.me/ltijs/) by Carlos Costa
 * [Enable LTI 1.3 Service](https://aws-samples.github.io/enable-lti/) by AWS
-* [LTI 1.3 Tool for testing Launches, Caliper, and Outcomes](https://github.com/blackboard/BBDN-LTI-Tool-Provider-Node) ⭐ 77 | 🐛 15 | 🌐 JavaScript | 📅 2026-08-06 by Blackboard Inc.
 
 ### Python
 
@@ -88,7 +88,7 @@ Demo codes or sample implementations are listed below each library.
   * [A simple LTI tool for integrating Qualtrics surveys into a course](https://github.com/longhornopen/qualtrics-lti) ⭐ 7 | 🐛 4 | 🌐 PHP | 📅 2026-08-12 by Longhorn Open Ed Tech
 * [LTI 1.3 Tool Library](https://github.com/packbackbooks/lti-1-3-php-library) ⭐ 53 | 🐛 11 | 🌐 PHP | 📅 2026-07-21 by Packback Book (this is a fork of the 1EdTech Consortium library)
 * [LTI 1.3 Core](https://github.com/oat-sa/lib-lti1p3-core) ⭐ 37 | 🐛 17 | 🌐 PHP | 📅 2026-07-16 by  Open Assessment Technologies (TAO)
-  * [LTI 1.3 Demo Application](https://github.com/oat-sa/demo-lti1p3) ⭐ 20 | 🐛 14 | 🌐 Twig | 📅 2026-08-21 by  Open Assessment Technologies (TAO)
+  * [LTI 1.3 Demo Application](https://github.com/oat-sa/demo-lti1p3) ⭐ 20 | 🐛 14 | 🌐 Twig | 📅 2026-08-24 by  Open Assessment Technologies (TAO)
 
 ### Ruby
 

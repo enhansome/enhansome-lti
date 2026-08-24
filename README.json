@@ -155,6 +155,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "LTI 1.3 Tool for testing Launches, Caliper, and Outcomes",
+              "description": "by Blackboard Inc.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 49515245,
+                "language": "JavaScript",
+                "last_commit": "2026-08-06T04:56:27Z",
+                "owner": "blackboard",
+                "repo": "BBDN-LTI-Tool-Provider-Node",
+                "stars": 77
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Javascript, Typescript, NodeJS"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "LTI 1.3 and LTI Advantage",
               "description": "by Dmitry Viskov",
               "children": [
@@ -434,7 +456,7 @@
                     "archived": false,
                     "id": 259937244,
                     "language": "Twig",
-                    "last_commit": "2026-08-21T13:12:35Z",
+                    "last_commit": "2026-08-24T11:24:16Z",
                     "owner": "oat-sa",
                     "repo": "devkit-lti1p3",
                     "stars": 20
@@ -455,13 +477,35 @@
           "description": null,
           "node_type": "group",
           "title": "PHP"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "LTI Advantage",
+              "description": "by Atomic Jolt, Inc.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 483393139,
+                "language": "Ruby",
+                "last_commit": "2025-05-08T15:18:00Z",
+                "owner": "atomicjolt",
+                "repo": "atomic_lti",
+                "stars": 6
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Ruby"
         }
       ],
       "title": "Libraries and Examples"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T03:10:05.240Z",
+    "last_updated": "2026-08-24T14:42:52.471Z",
     "original_repository": "scollovati/awesome-lti",
     "original_repository_id": 323606506,
     "original_repository_sha": "01aaf4c425a5a1d3c3f581b6f2e65a0ca50a7185",
