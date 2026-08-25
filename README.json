@@ -456,7 +456,7 @@
                     "archived": false,
                     "id": 259937244,
                     "language": "Twig",
-                    "last_commit": "2026-08-24T11:24:16Z",
+                    "last_commit": "2026-08-24T16:51:15Z",
                     "owner": "oat-sa",
                     "repo": "devkit-lti1p3",
                     "stars": 20
@@ -505,7 +505,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:42:52.471Z",
+    "last_updated": "2026-08-25T03:04:49.161Z",
     "original_repository": "scollovati/awesome-lti",
     "original_repository_id": 323606506,
     "original_repository_sha": "01aaf4c425a5a1d3c3f581b6f2e65a0ca50a7185",
