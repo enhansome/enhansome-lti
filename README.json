@@ -16,7 +16,8 @@
             "owner": "1EdTech",
             "repo": "LTI-bootcamp-python",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T14:14:11.735Z"
         },
         {
           "node_type": "group",
@@ -35,8 +36,9 @@
                 "last_commit": "2025-11-10T19:57:18Z",
                 "owner": "1EdTech",
                 "repo": "ltibootcamp",
-                "stars": 128
-              }
+                "stars": 127
+              },
+              "first_seen": "2026-08-28T14:14:11.735Z"
             }
           ]
         }
@@ -61,7 +63,8 @@
                 "owner": "LtiLibrary",
                 "repo": "LtiAdvantage",
                 "stars": 45
-              }
+              },
+              "first_seen": "2026-08-28T14:14:11.735Z"
             },
             {
               "node_type": "item",
@@ -76,7 +79,8 @@
                 "owner": "LtiLibrary",
                 "repo": "LtiAdvantage",
                 "stars": 45
-              }
+              },
+              "first_seen": "2026-08-28T14:14:11.735Z"
             }
           ],
           "description": null,
@@ -98,7 +102,8 @@
                 "owner": "1EdTech",
                 "repo": "basiclti-util-java",
                 "stars": 60
-              }
+              },
+              "first_seen": "2026-08-28T14:14:11.735Z"
             },
             {
               "node_type": "item",
@@ -113,7 +118,8 @@
                 "owner": "UOC",
                 "repo": "java-lti-1.3",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-28T14:14:11.735Z"
             },
             {
               "node_type": "item",
@@ -133,7 +139,8 @@
                     "owner": "UOC",
                     "repo": "java-lti-1.3-provider-example",
                     "stars": 8
-                  }
+                  },
+                  "first_seen": "2026-08-28T14:14:11.735Z"
                 }
               ],
               "repo_info": {
@@ -144,7 +151,8 @@
                 "owner": "UOC",
                 "repo": "spring-boot-lti-advantage",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T14:14:11.735Z"
             }
           ],
           "description": null,
@@ -166,7 +174,8 @@
                 "owner": "blackboard",
                 "repo": "BBDN-LTI-Tool-Provider-Node",
                 "stars": 77
-              }
+              },
+              "first_seen": "2026-08-28T14:14:11.735Z"
             }
           ],
           "description": null,
@@ -193,7 +202,8 @@
                     "owner": "dmitry-viskov",
                     "repo": "pylti1.3-django-example",
                     "stars": 31
-                  }
+                  },
+                  "first_seen": "2026-08-28T14:14:11.735Z"
                 },
                 {
                   "node_type": "item",
@@ -208,7 +218,8 @@
                     "owner": "academic-innovation",
                     "repo": "django-lti",
                     "stars": 26
-                  }
+                  },
+                  "first_seen": "2026-08-28T14:14:11.735Z"
                 },
                 {
                   "node_type": "item",
@@ -223,7 +234,8 @@
                     "owner": "dmitry-viskov",
                     "repo": "pylti1.3-flask-example",
                     "stars": 23
-                  }
+                  },
+                  "first_seen": "2026-08-28T14:14:11.735Z"
                 }
               ],
               "repo_info": {
@@ -234,7 +246,8 @@
                 "owner": "dmitry-viskov",
                 "repo": "pylti1.3",
                 "stars": 138
-              }
+              },
+              "first_seen": "2026-08-28T14:14:11.735Z"
             },
             {
               "node_type": "item",
@@ -254,7 +267,8 @@
                     "owner": "wachjose88",
                     "repo": "local-lti-consumer",
                     "stars": 11
-                  }
+                  },
+                  "first_seen": "2026-08-28T14:14:11.735Z"
                 },
                 {
                   "node_type": "item",
@@ -269,7 +283,8 @@
                     "owner": "wachjose88",
                     "repo": "django-lti-provider-auth",
                     "stars": 2
-                  }
+                  },
+                  "first_seen": "2026-08-28T14:14:11.735Z"
                 }
               ],
               "repo_info": {
@@ -280,7 +295,8 @@
                 "owner": "pylti",
                 "repo": "lti",
                 "stars": 83
-              }
+              },
+              "first_seen": "2026-08-28T14:14:11.735Z"
             },
             {
               "node_type": "item",
@@ -300,7 +316,8 @@
                     "owner": "ucfopen",
                     "repo": "lti-template-flask",
                     "stars": 47
-                  }
+                  },
+                  "first_seen": "2026-08-28T14:14:11.735Z"
                 },
                 {
                   "node_type": "item",
@@ -315,7 +332,8 @@
                     "owner": "mitodl",
                     "repo": "mit_lti_flask_sample",
                     "stars": 24
-                  }
+                  },
+                  "first_seen": "2026-08-28T14:14:11.735Z"
                 }
               ],
               "repo_info": {
@@ -326,7 +344,8 @@
                 "owner": "mitodl",
                 "repo": "pylti",
                 "stars": 63
-              }
+              },
+              "first_seen": "2026-08-28T14:14:11.735Z"
             }
           ],
           "description": null,
@@ -352,8 +371,9 @@
                     "last_commit": "2024-07-26T13:56:57Z",
                     "owner": "1EdTech",
                     "repo": "lti-1-3-php-example-tool",
-                    "stars": 56
-                  }
+                    "stars": 55
+                  },
+                  "first_seen": "2026-08-28T14:14:11.735Z"
                 }
               ],
               "repo_info": {
@@ -363,8 +383,9 @@
                 "last_commit": "2024-08-20T03:28:04Z",
                 "owner": "1EdTech",
                 "repo": "lti-1-3-php-library",
-                "stars": 125
-              }
+                "stars": 124
+              },
+              "first_seen": "2026-08-28T14:14:11.735Z"
             },
             {
               "node_type": "item",
@@ -384,7 +405,8 @@
                     "owner": "longhornopen",
                     "repo": "laravel-celtic-lti",
                     "stars": 16
-                  }
+                  },
+                  "first_seen": "2026-08-28T14:14:11.735Z"
                 },
                 {
                   "node_type": "item",
@@ -399,7 +421,8 @@
                     "owner": "celtic-project",
                     "repo": "Rating-PHP",
                     "stars": 14
-                  }
+                  },
+                  "first_seen": "2026-08-28T14:14:11.735Z"
                 },
                 {
                   "node_type": "item",
@@ -414,7 +437,8 @@
                     "owner": "longhornopen",
                     "repo": "qualtrics-lti",
                     "stars": 7
-                  }
+                  },
+                  "first_seen": "2026-08-28T14:14:11.735Z"
                 }
               ],
               "repo_info": {
@@ -425,7 +449,8 @@
                 "owner": "celtic-project",
                 "repo": "LTI-PHP",
                 "stars": 60
-              }
+              },
+              "first_seen": "2026-08-28T14:14:11.735Z"
             },
             {
               "node_type": "item",
@@ -440,7 +465,8 @@
                 "owner": "packbackbooks",
                 "repo": "lti-1-3-php-library",
                 "stars": 53
-              }
+              },
+              "first_seen": "2026-08-28T14:14:11.735Z"
             },
             {
               "node_type": "item",
@@ -460,7 +486,8 @@
                     "owner": "oat-sa",
                     "repo": "devkit-lti1p3",
                     "stars": 20
-                  }
+                  },
+                  "first_seen": "2026-08-28T14:14:11.735Z"
                 }
               ],
               "repo_info": {
@@ -471,7 +498,8 @@
                 "owner": "oat-sa",
                 "repo": "lib-lti1p3-core",
                 "stars": 37
-              }
+              },
+              "first_seen": "2026-08-28T14:14:11.735Z"
             }
           ],
           "description": null,
@@ -493,7 +521,8 @@
                 "owner": "atomicjolt",
                 "repo": "atomic_lti",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T14:14:11.735Z"
             }
           ],
           "description": null,
@@ -505,7 +534,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:40:44.382Z",
+    "last_updated": "2026-08-28T14:14:11.735Z",
     "original_repository_info": {
       "archived": false,
       "id": 323606506,
