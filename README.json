@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "LTI Bootcamp activities and sample code in Python",
+            "homepage": null,
             "id": 875163604,
             "language": "CSS",
+            "license": null,
             "last_commit": "2025-06-12T11:14:32Z",
+            "open_issues": 2,
             "owner": "1EdTech",
             "repo": "LTI-bootcamp-python",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:14:11.735Z"
         },
@@ -31,12 +36,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 129768340,
                 "language": null,
+                "license": null,
                 "last_commit": "2025-11-10T19:57:18Z",
+                "open_issues": 0,
                 "owner": "1EdTech",
                 "repo": "ltibootcamp",
-                "stars": 127
+                "stars": 127,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:14:11.735Z"
             }
@@ -57,12 +67,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "LTI Advantage class library for .NET applications.",
+                "homepage": null,
                 "id": 149382075,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-08-17T01:24:43Z",
+                "open_issues": 12,
                 "owner": "LtiLibrary",
                 "repo": "LtiAdvantage",
-                "stars": 45
+                "stars": 45,
+                "topics": [
+                  "csharp",
+                  "imsglobal",
+                  "ltiadvantage",
+                  "netstandard20"
+                ]
               },
               "first_seen": "2026-08-28T14:14:11.735Z"
             },
@@ -73,12 +93,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "LTI Advantage class library for .NET applications.",
+                "homepage": null,
                 "id": 149382075,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-08-17T01:24:43Z",
+                "open_issues": 12,
                 "owner": "LtiLibrary",
                 "repo": "LtiAdvantage",
-                "stars": 45
+                "stars": 45,
+                "topics": [
+                  "csharp",
+                  "imsglobal",
+                  "ltiadvantage",
+                  "netstandard20"
+                ]
               },
               "first_seen": "2026-08-28T14:14:11.735Z"
             }
@@ -96,12 +126,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 22155592,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2022-11-16T03:51:43Z",
+                "open_issues": 13,
                 "owner": "1EdTech",
                 "repo": "basiclti-util-java",
-                "stars": 60
+                "stars": 60,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:14:11.735Z"
             },
@@ -112,12 +147,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 225844458,
                 "language": "Java",
+                "license": "MIT",
                 "last_commit": "2024-10-03T18:46:22Z",
+                "open_issues": 5,
                 "owner": "UOC",
                 "repo": "java-lti-1.3",
-                "stars": 21
+                "stars": 21,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:14:11.735Z"
             },
@@ -133,24 +173,34 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 225844549,
                     "language": "Java",
+                    "license": "MIT",
                     "last_commit": "2022-11-18T14:38:54Z",
+                    "open_issues": 1,
                     "owner": "UOC",
                     "repo": "java-lti-1.3-provider-example",
-                    "stars": 8
+                    "stars": 8,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T14:14:11.735Z"
                 }
               ],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 225844507,
                 "language": "Java",
+                "license": "MIT",
                 "last_commit": "2023-07-04T06:38:43Z",
+                "open_issues": 2,
                 "owner": "UOC",
                 "repo": "spring-boot-lti-advantage",
-                "stars": 16
+                "stars": 16,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:14:11.735Z"
             }
@@ -168,12 +218,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A node.js LTI Tool Provider for testing LTI launches, Caliper, and Outcomes. ",
+                "homepage": null,
                 "id": 49515245,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2026-08-06T04:56:27Z",
+                "open_issues": 15,
                 "owner": "blackboard",
                 "repo": "BBDN-LTI-Tool-Provider-Node",
-                "stars": 77
+                "stars": 77,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:14:11.735Z"
             }
@@ -196,12 +251,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "PyLTI1p3 Django usage example",
+                    "homepage": null,
                     "id": 249266822,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2024-03-08T17:09:52Z",
+                    "open_issues": 7,
                     "owner": "dmitry-viskov",
                     "repo": "pylti1.3-django-example",
-                    "stars": 31
+                    "stars": 31,
+                    "topics": [
+                      "django",
+                      "lti",
+                      "lti-tool",
+                      "lti1p3",
+                      "ltiadvantage",
+                      "pylti1p3",
+                      "python"
+                    ]
                   },
                   "first_seen": "2026-08-28T14:14:11.735Z"
                 },
@@ -212,12 +280,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "LTI Advantage support for Django projects.",
+                    "homepage": "https://academic-innovation.github.io/django-lti/",
                     "id": 488980237,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-08-11T12:25:48Z",
+                    "open_issues": 26,
                     "owner": "academic-innovation",
                     "repo": "django-lti",
-                    "stars": 26
+                    "stars": 26,
+                    "topics": [
+                      "django",
+                      "lti",
+                      "python"
+                    ]
                   },
                   "first_seen": "2026-08-28T14:14:11.735Z"
                 },
@@ -228,24 +305,48 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "PyLTI1p3 Flask usage example",
+                    "homepage": null,
                     "id": 249275520,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2023-12-21T21:27:05Z",
+                    "open_issues": 15,
                     "owner": "dmitry-viskov",
                     "repo": "pylti1.3-flask-example",
-                    "stars": 23
+                    "stars": 23,
+                    "topics": [
+                      "flask",
+                      "lti",
+                      "lti-tool",
+                      "lti1p3",
+                      "ltiadvantage",
+                      "pylti1p3",
+                      "python"
+                    ]
                   },
                   "first_seen": "2026-08-28T14:14:11.735Z"
                 }
               ],
               "repo_info": {
                 "archived": false,
+                "description": "LTI 1.3 Advantage Tool",
+                "homepage": null,
                 "id": 200068914,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-08-18T17:45:18Z",
+                "open_issues": 51,
                 "owner": "dmitry-viskov",
                 "repo": "pylti1.3",
-                "stars": 138
+                "stars": 138,
+                "topics": [
+                  "lti",
+                  "lti-tool",
+                  "lti1p3",
+                  "ltiadvantage",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T14:14:11.735Z"
             },
@@ -261,12 +362,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "This is a LTI consumer which can run on your local machine. It can be used to test LTI providers locally by writing testcases. ",
+                    "homepage": null,
                     "id": 129373505,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2025-09-22T08:29:32Z",
+                    "open_issues": 0,
                     "owner": "wachjose88",
                     "repo": "local-lti-consumer",
-                    "stars": 11
+                    "stars": 11,
+                    "topics": [
+                      "django",
+                      "local-machine",
+                      "lti-consumer",
+                      "python",
+                      "writing-testcases"
+                    ]
                   },
                   "first_seen": "2026-08-28T14:14:11.735Z"
                 },
@@ -277,24 +389,39 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "This is a highly confirgurable LTI provider for Django projects.",
+                    "homepage": null,
                     "id": 150266827,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2025-09-23T08:32:46Z",
+                    "open_issues": 0,
                     "owner": "wachjose88",
                     "repo": "django-lti-provider-auth",
-                    "stars": 2
+                    "stars": 2,
+                    "topics": [
+                      "django",
+                      "lti",
+                      "ltiprovider",
+                      "python3"
+                    ]
                   },
                   "first_seen": "2026-08-28T14:14:11.735Z"
                 }
               ],
               "repo_info": {
                 "archived": false,
+                "description": "Learning Tools Interoperability for Python",
+                "homepage": null,
                 "id": 58499929,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2024-05-22T06:14:19Z",
+                "open_issues": 16,
                 "owner": "pylti",
                 "repo": "lti",
-                "stars": 83
+                "stars": 83,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:14:11.735Z"
             },
@@ -310,12 +437,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "DEPRECATED - LTI template written in Python using the Flask framework.  Quickly create a new application that can be launched through your Learning Management System using the LTI protocol.  Uses standard configurable Key & Secret to launch.",
+                    "homepage": null,
                     "id": 82342413,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-07-20T15:14:48Z",
+                    "open_issues": 3,
                     "owner": "ucfopen",
                     "repo": "lti-template-flask",
-                    "stars": 47
+                    "stars": 47,
+                    "topics": [
+                      "archived",
+                      "canvas-lms",
+                      "deprecated",
+                      "flask",
+                      "lti",
+                      "lti-tool",
+                      "obselete",
+                      "python"
+                    ]
                   },
                   "first_seen": "2026-08-28T14:14:11.735Z"
                 },
@@ -326,24 +467,38 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "a sample LTI provider using the PyLTI library and the Flask framework",
+                    "homepage": null,
                     "id": 26337271,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2024-03-07T18:23:53Z",
+                    "open_issues": 15,
                     "owner": "mitodl",
                     "repo": "mit_lti_flask_sample",
-                    "stars": 24
+                    "stars": 24,
+                    "topics": [
+                      "flask",
+                      "lti-provider",
+                      "python"
+                    ]
                   },
                   "first_seen": "2026-08-28T14:14:11.735Z"
                 }
               ],
               "repo_info": {
                 "archived": true,
+                "description": "PyLTI implementation",
+                "homepage": null,
                 "id": 25701576,
                 "language": "Python",
+                "license": "BSD-2-Clause",
                 "last_commit": "2023-10-20T13:38:01Z",
+                "open_issues": 26,
                 "owner": "mitodl",
                 "repo": "pylti",
-                "stars": 63
+                "stars": 63,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:14:11.735Z"
             }
@@ -366,24 +521,34 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 214161092,
                     "language": "PHP",
+                    "license": null,
                     "last_commit": "2024-07-26T13:56:57Z",
+                    "open_issues": 12,
                     "owner": "1EdTech",
                     "repo": "lti-1-3-php-example-tool",
-                    "stars": 55
+                    "stars": 55,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T14:14:11.735Z"
                 }
               ],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 137766921,
                 "language": "PHP",
+                "license": "Apache-2.0",
                 "last_commit": "2024-08-20T03:28:04Z",
+                "open_issues": 26,
                 "owner": "1EdTech",
                 "repo": "lti-1-3-php-library",
-                "stars": 124
+                "stars": 124,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:14:11.735Z"
             },
@@ -399,12 +564,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Integrates the Celtic LTI library with a Laravel app",
+                    "homepage": null,
                     "id": 325572133,
                     "language": "PHP",
+                    "license": "LGPL-2.1",
                     "last_commit": "2025-10-22T15:25:27Z",
+                    "open_issues": 0,
                     "owner": "longhornopen",
                     "repo": "laravel-celtic-lti",
-                    "stars": 16
+                    "stars": 16,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T14:14:11.735Z"
                 },
@@ -415,12 +585,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Example LTI tool",
+                    "homepage": null,
                     "id": 168190030,
                     "language": "PHP",
+                    "license": "GPL-3.0",
                     "last_commit": "2025-08-11T20:47:44Z",
+                    "open_issues": 1,
                     "owner": "celtic-project",
                     "repo": "Rating-PHP",
-                    "stars": 14
+                    "stars": 14,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T14:14:11.735Z"
                 },
@@ -431,24 +606,36 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A simple LTI tool for integrating Qualtrics surveys into a course.",
+                    "homepage": null,
                     "id": 350486368,
                     "language": "PHP",
+                    "license": "AGPL-3.0",
                     "last_commit": "2026-08-12T14:19:24Z",
+                    "open_issues": 4,
                     "owner": "longhornopen",
                     "repo": "qualtrics-lti",
-                    "stars": 7
+                    "stars": 7,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T14:14:11.735Z"
                 }
               ],
               "repo_info": {
                 "archived": false,
+                "description": "PHP class library for building LTI integrations",
+                "homepage": null,
                 "id": 142710376,
                 "language": "PHP",
+                "license": "LGPL-3.0",
                 "last_commit": "2026-08-17T16:27:28Z",
+                "open_issues": 0,
                 "owner": "celtic-project",
                 "repo": "LTI-PHP",
-                "stars": 60
+                "stars": 60,
+                "topics": [
+                  "php"
+                ]
               },
               "first_seen": "2026-08-28T14:14:11.735Z"
             },
@@ -459,12 +646,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A library used for building IMS-certified LTI 1.3 tool providers in PHP.",
+                "homepage": null,
                 "id": 267419612,
                 "language": "PHP",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-26T13:22:35Z",
+                "open_issues": 12,
                 "owner": "packbackbooks",
                 "repo": "lti-1-3-php-library",
-                "stars": 53
+                "stars": 53,
+                "topics": [
+                  "lti",
+                  "lti-tool",
+                  "lti1p3"
+                ]
               },
               "first_seen": "2026-08-28T14:14:11.735Z"
             },
@@ -480,24 +676,63 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "LTI 1.3 development kit, acting as platform and / or tool.",
+                    "homepage": null,
                     "id": 259937244,
                     "language": "PHP",
+                    "license": "GPL-2.0",
                     "last_commit": "2026-08-27T10:23:15Z",
+                    "open_issues": 14,
                     "owner": "oat-sa",
                     "repo": "devkit-lti1p3",
-                    "stars": 20
+                    "stars": 20,
+                    "topics": [
+                      "ags",
+                      "basic-outcome",
+                      "demo-application",
+                      "docker",
+                      "ims",
+                      "lti",
+                      "lti-message",
+                      "lti-platform",
+                      "lti-service",
+                      "lti-tool",
+                      "lti1p3",
+                      "ltiadvantage",
+                      "nrps",
+                      "php",
+                      "proctor",
+                      "proctoring",
+                      "submission-review",
+                      "symfony"
+                    ]
                   },
                   "first_seen": "2026-08-28T14:14:11.735Z"
                 }
               ],
               "repo_info": {
                 "archived": false,
+                "description": "PHP library for LTI 1.3 Core implementations as platforms and / or as tools.",
+                "homepage": null,
                 "id": 244593879,
                 "language": "PHP",
+                "license": "GPL-2.0",
                 "last_commit": "2026-07-16T07:17:02Z",
+                "open_issues": 17,
                 "owner": "oat-sa",
                 "repo": "lib-lti1p3-core",
-                "stars": 37
+                "stars": 37,
+                "topics": [
+                  "ims",
+                  "lti",
+                  "lti-message",
+                  "lti-platform",
+                  "lti-service",
+                  "lti-tool",
+                  "lti1p3",
+                  "ltiadvantage",
+                  "php-library"
+                ]
               },
               "first_seen": "2026-08-28T14:14:11.735Z"
             }
@@ -515,12 +750,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 483393139,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2025-05-08T15:18:00Z",
+                "open_issues": 7,
                 "owner": "atomicjolt",
                 "repo": "atomic_lti",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:14:11.735Z"
             }
@@ -534,15 +774,28 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T14:14:11.735Z",
+    "last_updated": "2026-08-29T05:04:52.892Z",
     "original_repository_info": {
       "archived": false,
+      "description": "List of awesome resources for learning and developing tools according to the Learning Tools Interoperability (LTI ©) standard created by the 1EdTech Consortium.",
+      "homepage": null,
       "id": 323606506,
       "language": null,
+      "license": "CC-BY-SA-4.0",
       "last_commit": "2025-12-12T16:10:04Z",
+      "open_issues": 0,
       "owner": "scollovati",
       "repo": "awesome-lti",
-      "stars": 79
+      "stars": 79,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "edtech",
+        "learning-technology",
+        "lti",
+        "lti-advantage",
+        "lti-tool"
+      ]
     },
     "original_repository_sha": "01aaf4c425a5a1d3c3f581b6f2e65a0ca50a7185",
     "enhanced_repository": "enhansome/enhansome-lti",
