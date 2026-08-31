@@ -72,8 +72,8 @@
                 "id": 149382075,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-08-17T01:24:43Z",
-                "open_issues": 12,
+                "last_commit": "2026-08-31T01:25:02Z",
+                "open_issues": 13,
                 "owner": "LtiLibrary",
                 "repo": "LtiAdvantage",
                 "stars": 45,
@@ -98,8 +98,8 @@
                 "id": 149382075,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-08-17T01:24:43Z",
-                "open_issues": 12,
+                "last_commit": "2026-08-31T01:25:02Z",
+                "open_issues": 13,
                 "owner": "LtiLibrary",
                 "repo": "LtiAdvantage",
                 "stars": 45,
@@ -774,7 +774,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T08:10:14.484Z",
+    "last_updated": "2026-08-31T08:30:52.484Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesome resources for learning and developing tools according to the Learning Tools Interoperability (LTI ©) standard created by the 1EdTech Consortium.",
