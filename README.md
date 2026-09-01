@@ -85,7 +85,7 @@ Demo codes or sample implementations are listed below each library.
 * [LTI 1.1 and LTI 1.3 Advantage](https://github.com/celtic-project/LTI-PHP) ⭐ 60 | 🐛 0 | 🌐 PHP | 📅 2026-08-17 by ceLTIc project
   * [Integrates the Celtic LTI library with a Laravel app](https://github.com/longhornopen/laravel-celtic-lti) ⭐ 16 | 🐛 0 | 🌐 PHP | 📅 2025-10-22 by Longhorn Open Ed Tech
   * [Rating PHP](https://github.com/celtic-project/Rating-PHP) ⭐ 14 | 🐛 1 | 🌐 PHP | 📅 2025-08-11 by ceLTIc project
-  * [A simple LTI tool for integrating Qualtrics surveys into a course](https://github.com/longhornopen/qualtrics-lti) ⭐ 7 | 🐛 4 | 🌐 PHP | 📅 2026-08-12 by Longhorn Open Ed Tech
+  * [A simple LTI tool for integrating Qualtrics surveys into a course](https://github.com/longhornopen/qualtrics-lti) ⭐ 8 | 🐛 4 | 🌐 PHP | 📅 2026-08-12 by Longhorn Open Ed Tech
 * [LTI 1.3 Tool Library](https://github.com/packbackbooks/lti-1-3-php-library) ⭐ 53 | 🐛 12 | 🌐 PHP | 📅 2026-08-26 by Packback Book (this is a fork of the 1EdTech Consortium library)
 * [LTI 1.3 Core](https://github.com/oat-sa/lib-lti1p3-core) ⭐ 37 | 🐛 17 | 🌐 PHP | 📅 2026-07-16 by  Open Assessment Technologies (TAO)
   * [LTI 1.3 Demo Application](https://github.com/oat-sa/demo-lti1p3) ⭐ 20 | 🐛 14 | 🌐 PHP | 📅 2026-08-27 by  Open Assessment Technologies (TAO)
@@ -107,4 +107,4 @@ See `LICENSE` file for more details.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
