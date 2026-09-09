@@ -82,8 +82,8 @@ Demo codes or sample implementations are listed below each library.
 
 * [LTI 1.3 Advantage Library](https://github.com/1EdTech/lti-1-3-php-library) ⭐ 124 | 🐛 26 | 🌐 PHP | 📅 2024-08-20 by 1EdTech Consortium
   * [LTI 1.3 Advantage Demo Tool](https://github.com/1EdTech/lti-1-3-php-example-tool) ⭐ 55 | 🐛 12 | 🌐 PHP | 📅 2024-07-26 by 1EdTech Consortium
-* [LTI 1.1 and LTI 1.3 Advantage](https://github.com/celtic-project/LTI-PHP) ⭐ 60 | 🐛 0 | 🌐 PHP | 📅 2026-09-06 by ceLTIc project
-  * [Integrates the Celtic LTI library with a Laravel app](https://github.com/longhornopen/laravel-celtic-lti) ⭐ 16 | 🐛 0 | 🌐 PHP | 📅 2025-10-22 by Longhorn Open Ed Tech
+* [LTI 1.1 and LTI 1.3 Advantage](https://github.com/celtic-project/LTI-PHP) ⭐ 60 | 🐛 0 | 🌐 PHP | 📅 2026-09-08 by ceLTIc project
+  * [Integrates the Celtic LTI library with a Laravel app](https://github.com/longhornopen/laravel-celtic-lti) ⭐ 16 | 🐛 0 | 🌐 PHP | 📅 2026-09-08 by Longhorn Open Ed Tech
   * [Rating PHP](https://github.com/celtic-project/Rating-PHP) ⭐ 14 | 🐛 1 | 🌐 PHP | 📅 2025-08-11 by ceLTIc project
   * [A simple LTI tool for integrating Qualtrics surveys into a course](https://github.com/longhornopen/qualtrics-lti) ⭐ 8 | 🐛 4 | 🌐 PHP | 📅 2026-08-12 by Longhorn Open Ed Tech
 * [LTI 1.3 Tool Library](https://github.com/packbackbooks/lti-1-3-php-library) ⭐ 53 | 🐛 12 | 🌐 PHP | 📅 2026-08-26 by Packback Book (this is a fork of the 1EdTech Consortium library)
@@ -107,4 +107,4 @@ See `LICENSE` file for more details.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._
