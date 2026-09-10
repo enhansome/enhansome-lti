@@ -628,8 +628,8 @@
                 "id": 142710376,
                 "language": "PHP",
                 "license": "LGPL-3.0",
-                "last_commit": "2026-09-08T21:55:35Z",
-                "open_issues": 0,
+                "last_commit": "2026-09-09T17:36:42Z",
+                "open_issues": 1,
                 "owner": "celtic-project",
                 "repo": "LTI-PHP",
                 "stars": 60,
@@ -774,7 +774,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T07:16:02.332Z",
+    "last_updated": "2026-09-10T07:12:28.538Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesome resources for learning and developing tools according to the Learning Tools Interoperability (LTI ©) standard created by the 1EdTech Consortium.",
