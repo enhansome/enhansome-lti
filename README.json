@@ -612,7 +612,7 @@
                     "language": "PHP",
                     "license": "AGPL-3.0",
                     "last_commit": "2026-08-12T14:19:24Z",
-                    "open_issues": 5,
+                    "open_issues": 4,
                     "owner": "longhornopen",
                     "repo": "qualtrics-lti",
                     "stars": 8,
@@ -628,7 +628,7 @@
                 "id": 142710376,
                 "language": "PHP",
                 "license": "LGPL-3.0",
-                "last_commit": "2026-09-26T21:50:22Z",
+                "last_commit": "2026-09-28T23:33:17Z",
                 "open_issues": 0,
                 "owner": "celtic-project",
                 "repo": "LTI-PHP",
@@ -755,8 +755,8 @@
                 "id": 483393139,
                 "language": "Ruby",
                 "license": "MIT",
-                "last_commit": "2025-05-08T15:18:00Z",
-                "open_issues": 7,
+                "last_commit": "2026-09-28T15:30:04Z",
+                "open_issues": 8,
                 "owner": "atomicjolt",
                 "repo": "atomic_lti",
                 "stars": 6,
@@ -774,7 +774,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T08:31:14.801Z",
+    "last_updated": "2026-09-29T08:15:15.783Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesome resources for learning and developing tools according to the Learning Tools Interoperability (LTI ©) standard created by the 1EdTech Consortium.",
