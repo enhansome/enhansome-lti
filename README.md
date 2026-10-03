@@ -6,7 +6,7 @@ List of awesome resources for learning and developing tools according to the [Le
 
 ![](https://img.shields.io/github/license/scollovati/awesome-lti?style=for-the-badge)
 [![](https://img.shields.io/static/v1?label=Gitlab\&message=awesome-lti\&style=for-the-badge\&logo=gitlab)](https://gitlab.com/scollovati/awesome-lti)
-[![](https://img.shields.io/static/v1?label=Github\&message=awesome-lti\&style=for-the-badge\&logo=github)](https://github.com/scollovati/awesome-lti) ⭐ 79 | 🐛 0 | 📅 2025-12-12
+[![](https://img.shields.io/static/v1?label=Github\&message=awesome-lti\&style=for-the-badge\&logo=github)](https://github.com/scollovati/awesome-lti)
 
 ## Table of Contents
 
@@ -49,8 +49,8 @@ Demo codes or sample implementations are listed below each library.
 
 ### .NET Core
 
-* [LTI 1.3 and LTI Advantage `LtiAdvantage`](https://github.com/LtiLibrary/LtiAdvantage) ⭐ 45 | 🐛 19 | 🌐 C# | 📅 2026-09-21
-* [LTI 1.3 `Tpcly.Lti`](https://github.com/LtiLibrary/LtiAdvantage) ⭐ 45 | 🐛 19 | 🌐 C# | 📅 2026-09-21 by  Jelle Maas
+* [LTI 1.3 and LTI Advantage `LtiAdvantage`](https://github.com/LtiLibrary/LtiAdvantage) ⭐ 46 | 🐛 19 | 🌐 C# | 📅 2026-09-21
+* [LTI 1.3 `Tpcly.Lti`](https://github.com/LtiLibrary/LtiAdvantage) ⭐ 46 | 🐛 19 | 🌐 C# | 📅 2026-09-21 by  Jelle Maas
 
 ### JAVA
 
@@ -83,7 +83,7 @@ Demo codes or sample implementations are listed below each library.
 * [LTI 1.3 Advantage Library](https://github.com/1EdTech/lti-1-3-php-library) ⭐ 124 | 🐛 26 | 🌐 PHP | 📅 2024-08-20 by 1EdTech Consortium
   * [LTI 1.3 Advantage Demo Tool](https://github.com/1EdTech/lti-1-3-php-example-tool) ⭐ 55 | 🐛 12 | 🌐 PHP | 📅 2024-07-26 by 1EdTech Consortium
 * [LTI 1.1 and LTI 1.3 Advantage](https://github.com/celtic-project/LTI-PHP) ⭐ 60 | 🐛 0 | 🌐 PHP | 📅 2026-09-29 by ceLTIc project
-  * [Integrates the Celtic LTI library with a Laravel app](https://github.com/longhornopen/laravel-celtic-lti) ⭐ 15 | 🐛 0 | 🌐 PHP | 📅 2026-09-13 by Longhorn Open Ed Tech
+  * [Integrates the Celtic LTI library with a Laravel app](https://github.com/longhornopen/laravel-celtic-lti) ⭐ 15 | 🐛 0 | 🌐 PHP | 📅 2026-10-02 by Longhorn Open Ed Tech
   * [Rating PHP](https://github.com/celtic-project/Rating-PHP) ⭐ 14 | 🐛 1 | 🌐 PHP | 📅 2025-08-11 by ceLTIc project
   * [A simple LTI tool for integrating Qualtrics surveys into a course](https://github.com/longhornopen/qualtrics-lti) ⭐ 8 | 🐛 4 | 🌐 PHP | 📅 2026-08-12 by Longhorn Open Ed Tech
 * [LTI 1.3 Tool Library](https://github.com/packbackbooks/lti-1-3-php-library) ⭐ 53 | 🐛 10 | 🌐 PHP | 📅 2026-09-23 by Packback Book (this is a fork of the 1EdTech Consortium library)
@@ -107,4 +107,4 @@ See `LICENSE` file for more details.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
