@@ -71,6 +71,7 @@ Demo codes or sample implementations are listed below each library.
   * [Example Tool Provider in Django](https://github.com/dmitry-viskov/pylti1.3-django-example) ⭐ 31 | 🐛 7 | 🌐 Python | 📅 2024-03-08 by Dmitry Viskov
   * [LTI 1.3 Advantage Django reusable app](https://github.com/academic-innovation/django-lti) ⭐ 26 | 🐛 26 | 🌐 Python | 📅 2026-08-11 by UM Center for Academic Innovation
   * [Example Tool Provider in Flask](https://github.com/dmitry-viskov/pylti1.3-flask-example) ⭐ 23 | 🐛 15 | 🌐 Python | 📅 2023-12-21 by Dmitry Viskov
+  * [LTI 1.3 Advantage Django/Flask cookiecutter template](https://github.com/ucfopen/cookiecutter-python-lti) ⭐ 5 | 🐛 7 | 🌐 Python | 📅 2026-05-12 by University of Central Florida - Open Source
 * [LTI 1.1 `lti`](https://github.com/pylti/lti) ⭐ 83 | 🐛 16 | 🌐 Python | 📅 2024-05-22 by Python LTI Initiative
   * [Local Tool Consumer in Django](https://github.com/wachjose88/local-lti-consumer) ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2025-09-22 by Josef Wachtler
   * [Tool Provider in Django](https://github.com/wachjose88/django-lti-provider-auth) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2025-09-23 by Josef Wachtler
@@ -107,4 +108,4 @@ See `LICENSE` file for more details.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-05._
