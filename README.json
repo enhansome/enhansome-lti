@@ -649,7 +649,7 @@
                 "id": 142710376,
                 "language": "PHP",
                 "license": "LGPL-3.0",
-                "last_commit": "2026-10-07T16:35:52Z",
+                "last_commit": "2026-10-08T21:03:40Z",
                 "open_issues": 0,
                 "owner": "celtic-project",
                 "repo": "LTI-PHP",
@@ -702,7 +702,7 @@
                     "id": 259937244,
                     "language": "PHP",
                     "license": "GPL-2.0",
-                    "last_commit": "2026-09-25T09:48:34Z",
+                    "last_commit": "2026-10-08T12:35:20Z",
                     "open_issues": 13,
                     "owner": "oat-sa",
                     "repo": "devkit-lti1p3",
@@ -795,7 +795,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T08:43:07.252Z",
+    "last_updated": "2026-10-09T08:47:46.413Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesome resources for learning and developing tools according to the Learning Tools Interoperability (LTI ©) standard created by the 1EdTech Consortium.",
@@ -807,7 +807,7 @@
       "open_issues": 0,
       "owner": "scollovati",
       "repo": "awesome-lti",
-      "stars": 79,
+      "stars": 78,
       "topics": [
         "awesome",
         "awesome-list",
