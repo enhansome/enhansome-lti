@@ -285,8 +285,8 @@
                     "id": 488980237,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-12T19:26:13Z",
-                    "open_issues": 27,
+                    "last_commit": "2026-10-14T19:06:30Z",
+                    "open_issues": 28,
                     "owner": "academic-innovation",
                     "repo": "django-lti",
                     "stars": 26,
@@ -676,7 +676,7 @@
                 "open_issues": 10,
                 "owner": "packbackbooks",
                 "repo": "lti-1-3-php-library",
-                "stars": 53,
+                "stars": 54,
                 "topics": [
                   "lti",
                   "lti-tool",
@@ -795,7 +795,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T07:23:19.389Z",
+    "last_updated": "2026-10-15T07:14:05.483Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesome resources for learning and developing tools according to the Learning Tools Interoperability (LTI ©) standard created by the 1EdTech Consortium.",
