@@ -49,8 +49,8 @@ Demo codes or sample implementations are listed below each library.
 
 ### .NET Core
 
-* [LTI 1.3 and LTI Advantage `LtiAdvantage`](https://github.com/LtiLibrary/LtiAdvantage) ⭐ 46 | 🐛 19 | 🌐 C# | 📅 2026-10-12
-* [LTI 1.3 `Tpcly.Lti`](https://github.com/LtiLibrary/LtiAdvantage) ⭐ 46 | 🐛 19 | 🌐 C# | 📅 2026-10-12 by  Jelle Maas
+* [LTI 1.3 and LTI Advantage `LtiAdvantage`](https://github.com/LtiLibrary/LtiAdvantage) ⭐ 46 | 🐛 19 | 🌐 C# | 📅 2026-10-19
+* [LTI 1.3 `Tpcly.Lti`](https://github.com/LtiLibrary/LtiAdvantage) ⭐ 46 | 🐛 19 | 🌐 C# | 📅 2026-10-19 by  Jelle Maas
 
 ### JAVA
 
@@ -108,4 +108,4 @@ See `LICENSE` file for more details.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-19._
