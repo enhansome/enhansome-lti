@@ -285,8 +285,8 @@
                     "id": 488980237,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-15T15:00:33Z",
-                    "open_issues": 27,
+                    "last_commit": "2026-10-19T18:28:00Z",
+                    "open_issues": 26,
                     "owner": "academic-innovation",
                     "repo": "django-lti",
                     "stars": 26,
@@ -795,7 +795,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T07:34:32.275Z",
+    "last_updated": "2026-10-20T07:22:37.935Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesome resources for learning and developing tools according to the Learning Tools Interoperability (LTI ©) standard created by the 1EdTech Consortium.",
