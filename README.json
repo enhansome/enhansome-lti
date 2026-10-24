@@ -76,7 +76,7 @@
                 "open_issues": 19,
                 "owner": "LtiLibrary",
                 "repo": "LtiAdvantage",
-                "stars": 46,
+                "stars": 45,
                 "topics": [
                   "csharp",
                   "imsglobal",
@@ -102,7 +102,7 @@
                 "open_issues": 19,
                 "owner": "LtiLibrary",
                 "repo": "LtiAdvantage",
-                "stars": 46,
+                "stars": 45,
                 "topics": [
                   "csharp",
                   "imsglobal",
@@ -285,7 +285,7 @@
                     "id": 488980237,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-20T13:02:28Z",
+                    "last_commit": "2026-10-23T19:16:15Z",
                     "open_issues": 26,
                     "owner": "academic-innovation",
                     "repo": "django-lti",
@@ -702,7 +702,7 @@
                     "id": 259937244,
                     "language": "PHP",
                     "license": "GPL-2.0",
-                    "last_commit": "2026-10-22T11:57:25Z",
+                    "last_commit": "2026-10-23T15:21:37Z",
                     "open_issues": 13,
                     "owner": "oat-sa",
                     "repo": "devkit-lti1p3",
@@ -738,8 +738,8 @@
                 "id": 244593879,
                 "language": "PHP",
                 "license": "GPL-2.0",
-                "last_commit": "2026-07-16T07:17:02Z",
-                "open_issues": 19,
+                "last_commit": "2026-10-24T06:28:26Z",
+                "open_issues": 14,
                 "owner": "oat-sa",
                 "repo": "lib-lti1p3-core",
                 "stars": 37,
@@ -795,7 +795,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T07:17:05.652Z",
+    "last_updated": "2026-10-24T07:05:46.791Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesome resources for learning and developing tools according to the Learning Tools Interoperability (LTI ©) standard created by the 1EdTech Consortium.",
@@ -807,7 +807,7 @@
       "open_issues": 0,
       "owner": "scollovati",
       "repo": "awesome-lti",
-      "stars": 78,
+      "stars": 79,
       "topics": [
         "awesome",
         "awesome-list",
