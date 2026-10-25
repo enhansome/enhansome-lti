@@ -89,7 +89,7 @@ Demo codes or sample implementations are listed below each library.
   * [A simple LTI tool for integrating Qualtrics surveys into a course](https://github.com/longhornopen/qualtrics-lti) ⭐ 8 | 🐛 4 | 🌐 PHP | 📅 2026-08-12 by Longhorn Open Ed Tech
 * [LTI 1.3 Tool Library](https://github.com/packbackbooks/lti-1-3-php-library) ⭐ 54 | 🐛 10 | 🌐 PHP | 📅 2026-10-16 by Packback Book (this is a fork of the 1EdTech Consortium library)
 * [LTI 1.3 Core](https://github.com/oat-sa/lib-lti1p3-core) ⭐ 37 | 🐛 14 | 🌐 PHP | 📅 2026-10-24 by  Open Assessment Technologies (TAO)
-  * [LTI 1.3 Demo Application](https://github.com/oat-sa/demo-lti1p3) ⭐ 20 | 🐛 13 | 🌐 PHP | 📅 2026-10-23 by  Open Assessment Technologies (TAO)
+  * [LTI 1.3 Demo Application](https://github.com/oat-sa/demo-lti1p3) ⭐ 20 | 🐛 14 | 🌐 PHP | 📅 2026-10-24 by  Open Assessment Technologies (TAO)
 
 ### Ruby
 
@@ -108,4 +108,4 @@ See `LICENSE` file for more details.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._
