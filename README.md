@@ -49,8 +49,8 @@ Demo codes or sample implementations are listed below each library.
 
 ### .NET Core
 
-* [LTI 1.3 and LTI Advantage `LtiAdvantage`](https://github.com/LtiLibrary/LtiAdvantage) ⭐ 45 | 🐛 4 | 🌐 C# | 📅 2026-10-28
-* [LTI 1.3 `Tpcly.Lti`](https://github.com/LtiLibrary/LtiAdvantage) ⭐ 45 | 🐛 4 | 🌐 C# | 📅 2026-10-28 by  Jelle Maas
+* [LTI 1.3 and LTI Advantage `LtiAdvantage`](https://github.com/LtiLibrary/LtiAdvantage) ⭐ 45 | 🐛 3 | 🌐 C# | 📅 2026-10-28
+* [LTI 1.3 `Tpcly.Lti`](https://github.com/LtiLibrary/LtiAdvantage) ⭐ 45 | 🐛 3 | 🌐 C# | 📅 2026-10-28 by  Jelle Maas
 
 ### JAVA
 
@@ -69,7 +69,7 @@ Demo codes or sample implementations are listed below each library.
 
 * [LTI 1.3 and LTI Advantage `pylti1.3`](https://github.com/dmitry-viskov/pylti1.3) ⭐ 138 | 🐛 51 | 🌐 Python | 📅 2024-08-18 by Dmitry Viskov
   * [Example Tool Provider in Django](https://github.com/dmitry-viskov/pylti1.3-django-example) ⭐ 31 | 🐛 7 | 🌐 Python | 📅 2024-03-08 by Dmitry Viskov
-  * [LTI 1.3 Advantage Django reusable app](https://github.com/academic-innovation/django-lti) ⭐ 26 | 🐛 26 | 🌐 Python | 📅 2026-10-27 by UM Center for Academic Innovation
+  * [LTI 1.3 Advantage Django reusable app](https://github.com/academic-innovation/django-lti) ⭐ 26 | 🐛 27 | 🌐 Python | 📅 2026-10-28 by UM Center for Academic Innovation
   * [Example Tool Provider in Flask](https://github.com/dmitry-viskov/pylti1.3-flask-example) ⭐ 23 | 🐛 15 | 🌐 Python | 📅 2023-12-21 by Dmitry Viskov
   * [LTI 1.3 Advantage Django/Flask cookiecutter template](https://github.com/ucfopen/cookiecutter-python-lti) ⭐ 5 | 🐛 7 | 🌐 Python | 📅 2026-05-12 by University of Central Florida - Open Source
 * [LTI 1.1 `lti`](https://github.com/pylti/lti) ⭐ 83 | 🐛 16 | 🌐 Python | 📅 2024-05-22 by Python LTI Initiative
@@ -86,10 +86,10 @@ Demo codes or sample implementations are listed below each library.
 * [LTI 1.1 and LTI 1.3 Advantage](https://github.com/celtic-project/LTI-PHP) ⭐ 60 | 🐛 0 | 🌐 PHP | 📅 2026-10-11 by ceLTIc project
   * [Integrates the Celtic LTI library with a Laravel app](https://github.com/longhornopen/laravel-celtic-lti) ⭐ 15 | 🐛 0 | 🌐 PHP | 📅 2026-10-02 by Longhorn Open Ed Tech
   * [Rating PHP](https://github.com/celtic-project/Rating-PHP) ⭐ 14 | 🐛 1 | 🌐 PHP | 📅 2025-08-11 by ceLTIc project
-  * [A simple LTI tool for integrating Qualtrics surveys into a course](https://github.com/longhornopen/qualtrics-lti) ⭐ 8 | 🐛 4 | 🌐 PHP | 📅 2026-08-12 by Longhorn Open Ed Tech
+  * [A simple LTI tool for integrating Qualtrics surveys into a course](https://github.com/longhornopen/qualtrics-lti) ⭐ 8 | 🐛 4 | 🌐 PHP | 📅 2026-10-28 by Longhorn Open Ed Tech
 * [LTI 1.3 Tool Library](https://github.com/packbackbooks/lti-1-3-php-library) ⭐ 54 | 🐛 10 | 🌐 PHP | 📅 2026-10-16 by Packback Book (this is a fork of the 1EdTech Consortium library)
 * [LTI 1.3 Core](https://github.com/oat-sa/lib-lti1p3-core) ⭐ 37 | 🐛 14 | 🌐 PHP | 📅 2026-10-24 by  Open Assessment Technologies (TAO)
-  * [LTI 1.3 Demo Application](https://github.com/oat-sa/demo-lti1p3) ⭐ 20 | 🐛 14 | 🌐 PHP | 📅 2026-10-27 by  Open Assessment Technologies (TAO)
+  * [LTI 1.3 Demo Application](https://github.com/oat-sa/demo-lti1p3) ⭐ 20 | 🐛 12 | 🌐 PHP | 📅 2026-10-29 by  Open Assessment Technologies (TAO)
 
 ### Ruby
 
@@ -108,4 +108,4 @@ See `LICENSE` file for more details.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._
