@@ -795,7 +795,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T08:58:59.965Z",
+    "last_updated": "2026-11-02T09:12:13.970Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesome resources for learning and developing tools according to the Learning Tools Interoperability (LTI ©) standard created by the 1EdTech Consortium.",
@@ -807,7 +807,7 @@
       "open_issues": 0,
       "owner": "scollovati",
       "repo": "awesome-lti",
-      "stars": 79,
+      "stars": 78,
       "topics": [
         "awesome",
         "awesome-list",
