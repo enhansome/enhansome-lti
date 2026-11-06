@@ -672,8 +672,8 @@
                 "id": 267419612,
                 "language": "PHP",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-03T18:53:00Z",
-                "open_issues": 10,
+                "last_commit": "2026-11-05T20:24:17Z",
+                "open_issues": 13,
                 "owner": "packbackbooks",
                 "repo": "lti-1-3-php-library",
                 "stars": 54,
@@ -795,7 +795,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T09:16:32.847Z",
+    "last_updated": "2026-11-06T09:09:00.341Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesome resources for learning and developing tools according to the Learning Tools Interoperability (LTI ©) standard created by the 1EdTech Consortium.",
