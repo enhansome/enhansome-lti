@@ -285,8 +285,8 @@
                     "id": 488980237,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-11-03T12:57:26Z",
-                    "open_issues": 26,
+                    "last_commit": "2026-11-10T09:12:11Z",
+                    "open_issues": 30,
                     "owner": "academic-innovation",
                     "repo": "django-lti",
                     "stars": 26,
@@ -343,7 +343,7 @@
                     "open_issues": 7,
                     "owner": "ucfopen",
                     "repo": "cookiecutter-python-lti",
-                    "stars": 5,
+                    "stars": 6,
                     "topics": []
                   },
                   "first_seen": "2026-10-05T08:45:38.359Z"
@@ -795,7 +795,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T09:31:57.229Z",
+    "last_updated": "2026-11-10T09:33:11.112Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesome resources for learning and developing tools according to the Learning Tools Interoperability (LTI ©) standard created by the 1EdTech Consortium.",
