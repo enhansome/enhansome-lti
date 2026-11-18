@@ -72,7 +72,7 @@
                 "id": 149382075,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-11-11T01:29:35Z",
+                "last_commit": "2026-11-18T01:29:13Z",
                 "open_issues": 6,
                 "owner": "LtiLibrary",
                 "repo": "LtiAdvantage",
@@ -98,7 +98,7 @@
                 "id": 149382075,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-11-11T01:29:35Z",
+                "last_commit": "2026-11-18T01:29:13Z",
                 "open_issues": 6,
                 "owner": "LtiLibrary",
                 "repo": "LtiAdvantage",
@@ -285,8 +285,8 @@
                     "id": 488980237,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-11-17T09:12:41Z",
-                    "open_issues": 28,
+                    "last_commit": "2026-11-17T15:00:50Z",
+                    "open_issues": 26,
                     "owner": "academic-innovation",
                     "repo": "django-lti",
                     "stars": 26,
@@ -795,7 +795,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T10:27:47.785Z",
+    "last_updated": "2026-11-18T09:57:55.399Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesome resources for learning and developing tools according to the Learning Tools Interoperability (LTI ©) standard created by the 1EdTech Consortium.",
