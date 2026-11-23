@@ -739,7 +739,7 @@
                 "language": "PHP",
                 "license": "GPL-2.0",
                 "last_commit": "2026-10-24T06:28:26Z",
-                "open_issues": 16,
+                "open_issues": 20,
                 "owner": "oat-sa",
                 "repo": "lib-lti1p3-core",
                 "stars": 37,
@@ -795,7 +795,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T09:35:14.762Z",
+    "last_updated": "2026-11-23T10:33:19.473Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesome resources for learning and developing tools according to the Learning Tools Interoperability (LTI ©) standard created by the 1EdTech Consortium.",
