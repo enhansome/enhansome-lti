@@ -742,7 +742,7 @@
                 "open_issues": 20,
                 "owner": "oat-sa",
                 "repo": "lib-lti1p3-core",
-                "stars": 37,
+                "stars": 38,
                 "topics": [
                   "ims",
                   "lti",
@@ -795,7 +795,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T10:42:40.085Z",
+    "last_updated": "2026-11-28T10:03:32.619Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesome resources for learning and developing tools according to the Learning Tools Interoperability (LTI ©) standard created by the 1EdTech Consortium.",
